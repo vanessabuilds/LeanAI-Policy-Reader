@@ -8,7 +8,7 @@ The LeanAI Policy Reader is designed to efficiently process and interpret policy
 
 ## Features
 
-* **Policy Document Analysis**: Input policy documents in various formats (e.g., PDF, DOCX, TXT) and receive structured summaries.
+* **Policy Document Analysis**: Input policy URL and receive structured summaries.
 * **Granite 3.3-8B Integration**: Utilizes IBM's advanced language model for accurate and context-aware interpretations.
 * **Cost-Efficient Processing**: Optimized for minimal computational resources without compromising performance.
 * **User-Friendly Interface**: Interactive Jupyter Notebook for seamless user interaction and customization.
