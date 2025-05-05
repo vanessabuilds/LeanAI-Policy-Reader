@@ -1,9 +1,3 @@
-[![Lean AI - How to Reduce LLM Cost?](https://tse2.mm.bing.net/th?id=OIP.b06BeWiB_WACItOYKL7f-AHaFL\&pid=Api)](https://bennycheung.github.io/lean-ai-reduce-llm-cost)
-
-Certainly! Here's a comprehensive `README.md` tailored for your GitHub project, integrating references to Replicate and IBM's Granite 3.3-8B model:
-
----
-
 # LeanAI Policy Reader
 
 **A lightweight, cost-effective AI tool for analyzing and summarizing policy documents using IBM's Granite 3.3-8B model.**
