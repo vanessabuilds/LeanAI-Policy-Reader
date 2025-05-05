@@ -30,6 +30,7 @@ For more details, refer to the [IBM Granite Documentation](https://www.ibm.com/g
 * **IBM Research**: For developing the Granite 3.3-8B model and contributing to the open-source AI community.
 * **Replicate**: For providing an accessible platform to deploy and experiment with machine learning models.
 
----
+## Demo
 
-Feel free to customize this `README.md` to better fit the specifics of your project. If you need assistance with any particular section or further customization, let me know!
+* https://www.youtube.com/watch?v=hwNbGD6vkmI
+---
